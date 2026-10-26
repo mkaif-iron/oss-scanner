@@ -1,0 +1,6 @@
+repo: https://github.com/IronTrex-CyberTechnology/steelmatter-systems
+primary_contact: aakhil@irontrex.com
+homepage: https://github.com/IronTrex-CyberTechnology/steelmatter-systems
+disabled: false
+dockerfile: .oss-scanner/Dockerfile
+threat_model: .oss-scanner/threat_model.md
